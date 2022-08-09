@@ -1,0 +1,6 @@
+name: aws-py-eks-nginx
+runtime:
+  name: python
+  options:
+    virtualenv: /home/kylep/.cache/pypoetry/virtualenvs/aws-py-eks-nginx-VWR2sDVQ-py3.9
+description: A minimal Python Pulumi program which provisions an EKS cluster and deploys a load balanced nginx server to it
